@@ -2,8 +2,6 @@
 
 This repo is so that we can have code snippets, notes and some reference for cs course and maybe for work term. 
 
-Feel free to share things.
-
 ### __Please respect Intellectual Property and school policies__
 
 ## Some Thing to Try
@@ -26,9 +24,13 @@ Feel free to share things.
     ```git
     git pull
     ```
+  - Check what is changed and is tracked
+    ```git
+    git status
+    ```
   - Add file to be commited (stage changes)
     ```git
-    git add [filename]
+    git add [file]
     ```
     Use ```*``` to add all files that has been changed
   - Commit your change
